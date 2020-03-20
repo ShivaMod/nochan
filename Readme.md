@@ -23,7 +23,7 @@ The config.json file will overwrite properties definied in config.js. Edit it to
 * node app
 or
 * node app myconfig.js
-
+ 
 
 ## TODO
 * Load test
